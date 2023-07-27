@@ -1,0 +1,24 @@
+{
+  "name": "testingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anturune/testingapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anturune/testingapp/issues"
+  },
+  "homepage": "https://github.com/anturune/testingapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
